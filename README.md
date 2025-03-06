@@ -41,8 +41,8 @@ JSON list of episodes
 - [x] Who Is Alive?
 - [x] Woe's Hollow
 - [x] Trojan's Horse
-- [ ] Attila
-- [ ] Chikhai Bardo
-- [ ] Sweet Vitriol
+- [x] Attila
+- [x] Chikhai Bardo
+- [x] Sweet Vitriol
 - [ ] The After Hours
 - [ ] Cold Harbor
