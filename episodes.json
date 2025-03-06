@@ -560,9 +560,9 @@
       "episode": 6,
       "airdate": "2025-02-21",
       "platform": "Apple TV+",
-      "runtime": 45,
+      "runtime": 49,
       "imdb": "https://www.imdb.com/pt/title/tt15242972/",
-      "image": "https://i.imgur.com/OTQKukK.png",
+      "image": "https://image.tmdb.org/t/p/original/zwRYHVbsAD1sx1BRl6pdrR3WaPY.jpg",
       "cast": {
         "Adam Scott": "Mark Scout",
         "Zach Cherry": "Dylan George",
@@ -594,9 +594,9 @@
       "episode": 7,
       "airdate": "2025-02-28",
       "platform": "Apple TV+",
-      "runtime": 45,
+      "runtime": 50,
       "imdb": "https://www.imdb.com/pt/title/tt15242980/",
-      "image": "https://i.imgur.com/OTQKukK.png",
+      "image": "https://image.tmdb.org/t/p/original/t7mL5CA8Lhm7kVWudu0JzWN8ucT.jpg",
       "cast": {
         "Adam Scott": "Mark Scout",
         "Zach Cherry": "Dylan George",
@@ -614,7 +614,7 @@
         "Dan Erickson",
         "Mark Friedman"
       ],
-      "synopsis": "Without Sinopsis",
+      "synopsis": "An old romance intersects with a deadly present threat.",
       "genres": [
         "Drama",
         "Mystery",
@@ -629,9 +629,9 @@
       "episode": 8,
       "airdate": "2025-03-07",
       "platform": "Apple TV+",
-      "runtime": 45,
+      "runtime": 38,
       "imdb": "https://www.imdb.com/pt/title/tt15242986/",
-      "image": "https://i.imgur.com/OTQKukK.png",
+      "image": "https://image.tmdb.org/t/p/original/9eIA3V9d3d0a1HkoKRQaDLiIhVP.jpg",
       "cast": {
         "Adam Scott": "Mark Scout",
         "Zach Cherry": "Dylan George",
@@ -649,7 +649,7 @@
         "Adam Countee",
         "K. C. Perry"
       ],
-      "synopsis": "Without Sinopsis",
+      "synopsis": "Discoveries are made.",
       "genres": [
         "Drama",
         "Mystery",
